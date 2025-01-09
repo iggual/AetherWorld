@@ -10,7 +10,7 @@ The **Twelve Alchemical Sisters of the Floating Islands** inhabit a mystical wor
 - **Levitation Technology**: Advanced systems that keep the islands afloat.
 - **Light Fusion**: Techniques that manipulate light for various purposes.
 - **Natural Healing Systems**: Methods that harness the power of nature.
-- - **Vibrational Medicine**: Healing practices that use sound and vibration.
+- **Vibrational Medicine**: Healing practices that use sound and vibration.
 - **Quantum Integration**: Technologies that incorporate quantum mechanics.
 - **Spiritual Advancement**: Practices that promote spiritual growth and enlightenment.
 
