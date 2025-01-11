@@ -6,7 +6,7 @@
 
 ---
 
-## The Golden Islands
+## The Floating Islands
 
 These floating wonders are not mere landmasses but living, breathing entities, each a masterpiece of sacred geometry. The structures and gardens are meticulously aligned with the **golden ratio (φ ≈ 1.618034)**, creating an environment that nurtures the body, mind, and spirit in perfect harmony. The air is filled with the whispers of ancient secrets, and the ground pulses with the rhythm of the Universe.
 
