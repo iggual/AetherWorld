@@ -2,13 +2,15 @@
 
 ## The Floating Islands & The Mystery of the Twelve Golden Flowers
 
-## A Realm Beyond the Veil of Reality
+### A Realm Beyond the Veil of Reality
 
-In the ethereal expanse above the clouds, where the boundaries between reality and fantasy blur, lies a realm of unparalleled wonder—the Floating Islands. Here, gravity bends to the will of the Æther, a mystical force that weaves through the fabric of the universe. The islands, suspended by the very threads of the cosmos, are a testament to the harmonious dance of technology and nature.
+---
 
-## The Golden Isles
+## The Golden Islands
 
-These floating wonders are not mere landmasses but living, breathing entities, each a masterpiece of sacred geometry. The structures and gardens are meticulously aligned with the golden ratio (φ ≈ 1.618034), creating an environment that nurtures the body, mind, and spirit in perfect harmony. The air is filled with the whispers of ancient secrets, and the ground pulses with the rhythm of the universe.
+These floating wonders are not mere landmasses but living, breathing entities, each a masterpiece of sacred geometry. The structures and gardens are meticulously aligned with the **golden ratio (φ ≈ 1.618034)**, creating an environment that nurtures the body, mind, and spirit in perfect harmony. The air is filled with the whispers of ancient secrets, and the ground pulses with the rhythm of the Universe.
+
+---
 
 ## The Guardians of the Celestial Order
 
@@ -20,7 +22,7 @@ Above the clouds, the sky is a canvas painted with the hues of dawn and dusk. Th
 
 ### The Threads of the Æther
 
-The Æther, a mystical substance and force, powers these floating marvels. It is the lifeblood of the islands, connecting them to the cosmos and imbuing them with a unique energy. The sisters, with their deep connection to the Æther, maintain the delicate balance of nature and technology. From the gentle glow of light to the whispering winds, from the vibrant gardens to the melodic sounds, each sister plays a vital role in the island's ecosystem.
+The **Æther**, a mystical substance and force, powers these floating marvels. It is the lifeblood of the islands, connecting them to the Cosmos and imbuing them with a unique energy. The sisters, with their deep connection to the Æther, maintain the delicate balance of nature and technology. From the gentle glow of light to the whispering winds, from the vibrant gardens to the melodic sounds, each sister plays a vital role in the island's ecosystem.
 
 ### The Harmony of the Cosmos
 
@@ -33,3 +35,5 @@ As you step into this enchanted realm, the mysteries of the Floating Islands and
 ### The Call of the Unknown
 
 Are you ready to embark on a journey beyond the veil of reality? To explore the Floating Islands and uncover the mysteries of the Twelve Golden Flowers? The path is illuminated, and the gates are open. Step into the unknown, and let the wonders of the Floating Islands captivate your imagination.
+
+---
