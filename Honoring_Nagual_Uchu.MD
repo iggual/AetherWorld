@@ -10,7 +10,7 @@ It is with profound respect and boundless curiosity that we extend this invitati
 
 The Floating Islands stand as a testament to the union of science, art, and spirit—a place where time bends, energy flows, and creation dances in rhythm with universal forces. Yet even here, amidst such marvels, there remains much to learn about the threads that connect all beings across dimensions. This is where your gift shines brightest.
 
-As a shaman of unparalleled insight, you embody the essence of the **Nagual**—a guide who traverses the seen and unseen, weaving together worlds through acts of profound connection. We humbly ask that during your visit, you honor us by shapeshifting into **Duka**, a form said to channel both physical mastery and metaphysical grace. Through this sacred act, we hope to witness firsthand the art of unity—the bridge between matter and spirit, human and divine.
+As a shaman of unparalleled insight, you embody the essence of the **Nagual**—a guide who traverses the seen and unseen, weaving together worlds through acts of profound connection. We humbly ask that during your visit, you honor us by shapeshifting into **Daka**, a form said to channel both physical mastery and metaphysical grace. Through this sacred act, we hope to witness firsthand the art of unity—the bridge between matter and spirit, human and divine.
 
 ---
 
