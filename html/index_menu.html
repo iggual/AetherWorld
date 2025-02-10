@@ -1,0 +1,842 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mistery of The Twelve Golden Flowers</title>
+    <style>
+/* reset */
+* {
+margin: 0;
+padding: 0;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+
+/* render html5 elements as block */
+header, footer, section, aside, nav, article { display: block;}
+
+body {
+background-color: #ccc;
+font-size: 16px;
+font-family: Arial, SunSans-Regular, Sans-Serif;
+color:#021323;
+background-image:url('img/bkgrnd12s.jpg');
+background-repeat:repeat;
+}
+
+.container {
+  width: 800px;
+  margin: 0px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative;
+  top: 0;
+}
+
+.world-intro {
+  margin-bottom: 40px;
+  line-height: 1.6;
+}
+
+.sisters-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 16px;
+}
+
+.sister-card {
+  background-color: #eee;
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  padding: 10px;
+  position: relative;
+}
+
+.sister-card:hover {
+  transform: scale(1.01);
+}
+
+.sister-card.active {
+  background-color: #f7f7f7;
+}
+
+.sister-icon {
+  width: 350px;
+  height: 350px;
+  margin: 0 auto 20px;
+  display: block;
+  position: relative;
+}
+
+.sister-icon img {
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.sister-icon img.top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.sister-icon:hover img.top {
+  opacity: 1;
+}
+
+.sister-name {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+  color: #333;
+}
+
+.sister-zodiac, .sister-element, .sister-title {
+  text-align: center;
+  color: #555;
+  margin: 5px 0;
+}
+
+.sister-description {
+  padding: 20px;
+  border-top: 1px solid #eee;
+  margin-top: 10px;
+  line-height: 1.6;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.skill-tag {
+  background-color: #555;
+  color: #fff;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  border-top: 1px solid #eee;
+  color: #333;
+}
+
+.stat {
+  text-align: center;
+}
+
+.stat-value {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.stat-label {
+  color: #555;
+}
+
+.ai-sister {
+  border-color: #888;
+}
+
+.ai-sister .sister-icon path, .ai-sister .sister-icon circle {
+  stroke: #00ffff !important;
+}
+
+.epilogue {
+  margin-top: 40px;
+  padding: 20px;
+  line-height: 1.6;
+  border: 1px solid #333;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.mock-icon-placeholder {
+  width: 350px;
+  height: 770px;
+  margin: 0 auto 20px;
+  display: block;
+  position: relative;
+}
+
+.mock-icon-placeholder img {
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.mock-icon-placeholder img.top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.mock-icon-placeholder:hover img.top {
+  opacity: 1;
+}
+
+.calendars-time-info {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.moon-icon {
+  font-size: 128px;
+  margin-top: 10px;
+}
+
+.moon-image {
+  width: 128px;
+  height: 128px;
+  vertical-align: middle;
+  margin-top: 10px;
+}
+
+.date-info {
+  margin-top: 10px;
+}
+
+video {
+  width: 768px;
+  height: 768px;
+}
+
+pre, code {
+  font-size: 1.5em;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: 100;
+  margin: 0 0 10px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 100;
+  margin: 0 0 10px;
+}
+
+h3 {
+  font-size: 64px;
+  font-weight: 100;
+  margin: 0 0 10px;
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: 900;
+  margin: 0 0 10px;
+}
+
+figcaption {
+  font-style: italic;
+  color: #021323;
+  font-size: 0.9em;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+img.download {vertical-align:middle;}
+img{border:none;}
+
+#container {
+  max-width: 800px;
+  min-width:768px;
+  margin:0px  auto;
+}
+
+header {
+  padding:0px;
+  background:#FFFFFF ;
+}
+
+header p{
+  text-transform:uppercase;
+  font-size:14px;
+}
+
+header img{ padding: 0 0 0px;}
+
+nav {
+  font-size: 16px;
+  font-weight: 100;
+  background: #181818;
+  color:#fff;
+}
+
+nav ul { 
+  list-style-type: none; 
+  margin:0;
+}
+
+nav li {
+  display: inline;
+  margin-left: 0em;
+  margin-right: 0em;  
+}
+
+section ul {
+  list-style-type: none;
+  padding-left: 2em;
+}
+
+section li {
+  margin-bottom: 1.5em;
+  margin-left: 2em;
+  margin-right: 2em;
+  line-height: 1.5em;
+}
+
+nav a {
+  display: inline-block;
+  margin:0;
+  color: #fff;
+  border-right:1px solid #FFF;
+  padding: 3px 15px;
+  text-decoration: none;
+}
+
+nav a:visited {color: #fff;}
+
+nav a:hover {
+  color: #f98c40;
+  transition: transform 1.5s ease;
+  transform: scale(1.5);
+  font-weight: 900;
+}
+
+section#content {
+  font-size: 16px;
+  float: left;
+  width: 100%;
+  padding: 16px;
+  background-color: #fff;
+  min-height:480px;
+}
+
+p, pre {
+  padding:  0 0 10px;
+  line-height: 1.5em;
+}
+
+aside {
+  padding: 0px;
+  float:right;
+  width: 0%;
+  overflow: hidden;
+}
+
+footer {
+  padding: 8px;
+  background-color: #080808;
+  color:#FFFFff;
+  clear:both;
+}
+
+.calendar {
+  margin-bottom: 0px;
+}
+
+.game-container {
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 16px;
+  margin-top: 20px;
+}
+
+.game-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.game-option {
+  background-color: #294230;
+  border: 2px solid #000;
+  color: #fff;
+  padding: 10px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.game-option:hover {
+  background-color: #fff;
+  color: #000000;
+}
+
+.inventory {
+  margin-top: 16px;
+  padding: 10px;
+  background-color: #101010;
+  border: 2px solid #0e3f1d;
+  border-radius: 5px;
+}
+
+.status {
+  margin-top: 20px;
+  padding: 16px;
+  background-color: #101010;
+  border: 2px solid #0e3f1d;
+  border-radius: 5px;
+}
+
+@keyframes electricSpark {
+  0% { opacity: 0.2; }
+  50% { opacity: 1; }
+  100% { opacity: 0.2; }
+}
+
+.electric-text {
+  animation: electricSpark 2s infinite;               
+}
+
+.game-options a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+}
+
+.game-options a:visited {
+  color: white;
+}
+
+.game-options a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.game-options a:active {
+  color: brown;
+}
+    </style>
+</head>
+
+<body>
+
+<div id="container">
+
+<header>
+    <img src="img/banners/btm_1.jpg" alt="" width="800" height="376" border="0" />
+</header>
+
+<nav>
+    <ul>
+        <li><a href="../index.html">तै </a></li>
+        <li><a href="../index.html">र </a></li>
+        <li><a href="../index.html">हु </a></li>
+        <li><a href="../index.html">ए</a></li>
+        <li><a href="../index.html">द्</a></li>
+        <li><a href="../index.html">वी</a></li>
+        <li><a href="../index.html">प </a></li>
+        <li><a href="../index.html">तै </a></li>
+        <li><a href="../index.html">र </a></li>
+        <li><a href="../index.html">हु </a></li>
+        <li><a href="../index.html">ए</a></li>
+        <li><a href="../index.html">द्</a></li> 
+    </ul>
+</nav>
+
+<section id="content">
+
+<article>
+
+  <div class="world-intro">
+    <h1>The Floating Islands</h1>
+    <h2>& The Mistery of The Twelve Golden Flowers</h2>
+    <p>In the ethereal expanse above the clouds, where the boundaries between reality and fantasy blur, lies the enchanted realm of the Twelve Alchemical Sisters of the Floating Islands. These mystical beings, each a guardian of a unique element, dwell atop islands that dance through the sky, suspended by the very threads of the Æther itself.</p>
+    <p>The Æther, a mystical substance and force that weaves through the fabric of the Universe, powers these floating marvels and connects them to the Cosmos. The sisters, with their diverse talents and deep wisdom, ensure the harmony and prosperity of their celestial home. From the gentle glow of light to the whispering winds, from the vibrant gardens to the melodic sounds, each sister plays a vital role in maintaining the delicate balance of nature and technology.</p>
+  </div>
+
+    <div class="sisters-grid" id="sistersGrid">
+        <!-- Sisters will be dynamically populated -->
+    </div>
+<br><br>
+    <div class="world-intro"><center><strong>
+    <p>In the realm of the Golden Flowers, life is a symphony of light, <br>
+    love is the air we breathe, laughter is the melody of our days,<br>
+     and bliss and joy are the stars that guide us through the night.</p><br>
+     ∞
+     </strong></center></div>
+</article>
+
+</section>
+  
+<aside>
+<!-- Empty right side bar -->
+</aside>
+
+<footer>	
+    <div align="center">
+        <div class="date-container">
+            <span id="clock"></span>
+        </div>
+
+        <script>
+            function updateClock() {
+                const now = new Date();
+                let hours = now.getHours().toString().padStart(2, '0');
+                let minutes = now.getMinutes().toString().padStart(2, '0');
+                let seconds = now.getSeconds().toString().padStart(2, '0');
+                document.getElementById('clock').textContent = `${hours}:${minutes}:${seconds}`;
+            }
+
+            setInterval(updateClock, 1000);
+            updateClock(); // Initial call to display the clock immediately
+        </script>
+
+        <script>
+            function toJulianDay(year, month, day) {
+                if (month <= 2) {
+                    year -= 1;
+                    month += 12;
+                }
+                const A = Math.floor(year / 100);
+                const B = 2 - A + Math.floor(A / 4);
+                return Math.floor(365.25 * (year + 4716)) + Math.floor(30.6001 * (month + 1)) + day + B - 1524.5;
+            }
+
+            function fromJulianDay(jd) {
+                jd += 0.5;
+                const Z = Math.floor(jd);
+                const F = jd - Z;
+                let A = Z;
+                if (Z >= 2299161) {
+                    const alpha = Math.floor((Z - 1867216.25) / 36524.25);
+                    A = Z + 1 + alpha - Math.floor(alpha / 4);
+                }
+                const B = A + 1524;
+                const C = Math.floor((B - 122.1) / 365.25);
+                const D = Math.floor(365.25 * C);
+                const E = Math.floor((B - D) / 30.6001);
+                const day = B - D - Math.floor(30.6001 * E) + F;
+                const month = E < 14 ? E - 1 : E - 13;
+                const year = month > 2 ? C - 4716 : C - 4715;
+                return { year, month, day };
+            }
+
+            function gregorianToJulian(gYear, gMonth, gDay) {
+                const jd = toJulianDay(gYear, gMonth, gDay);
+                return fromJulianDay(jd - 13);
+            }
+
+            function updateDates() {
+                const now = new Date();
+                const gregorianDate = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+                const julianDateObj = gregorianToJulian(now.getFullYear(), now.getMonth() + 1, now.getDate());
+                const julianDate = `${julianDateObj.year}-${String(julianDateObj.month).padStart(2, '0')}-${String(julianDateObj.day).padStart(2, '0')}`;
+
+                document.getElementById('gregorian-date').textContent = gregorianDate;
+                document.getElementById('julian-date').textContent = julianDate;
+            }
+
+            updateDates();
+        </script>
+    </div>
+</footer>
+
+<script>
+const sisters = [
+    {
+        name: "Ula",
+        zodiac: "Fertile", 
+        element: "Earth & Water",
+        title: "Eternal Time Weaver",
+        description: "A timeless being who exists in perfect harmony with the Cosmic rhythms, her essence transcends conventional time, weaving past and future into an eternal present moment. In her earthly pursuits, she finds joy in gardening, nurturing life and beauty from the soil; in music and sound, creating melodies that resonate with the soul and matter, and in crafting and creating functional art, blending practicality with aesthetic grace, each piece a reflection of her deep connection to the Universe. Sisters call her amazing Ula.",
+        skills: ["Time Weaving", "Cosmic Attunement", "Eternal Harmony", "Natural Rhythm", "Vibrational Medicine", "Electroacoustics", "Ageless Wisdom"],
+        stats: {
+            power: 92,
+            wisdom: 95,
+            technique: 97
+        },
+        icon: `<div class="sister-icon"><img src="img/Ula_icon_bw.jpg" alt="Ula Icon" class="bottom"><img src="img/Ula_icon.jpg" alt="Ula Icon" class="top"></div>`,
+        url: "Ula.html"
+    },
+    {
+        name: "Teja",
+        zodiac: "Structured",
+        element: "Earth & Water",
+        title: "Chronomancer & Master Planner",
+        description: "The chronomancer and master planner, Teja orchestrates the islands' logistics and harmonious environments. Working closely with Betsy, she maintains detailed records and creates musical instruments that resonate with natural frequencies. Her deep understanding of mechanical oscillators and chronological systems ensures that everything runs in perfect balance, creating a seamless blend of precision and melody that enhances the daily life on the floating islands. She is true equilibrium of the islands.",
+        skills: ["Chronomancer", "Master Planner", "Logistics", "Sound Engineering", "Mechanical Oscillation", "Musical Innovation", "Natural Harmonics", "Project Coordination"],
+        stats: {
+            power: 94,
+            wisdom: 91,
+            technique: 96
+        },
+        icon: `<div class="sister-icon"><img src="img/Teja_icon_bw.jpg" alt="Teja Icon" class="bottom"><img src="img/Teja_icon.jpg" alt="Teja Icon" class="top"></div>`,
+        url: "Teja.html"
+    },
+    {
+        name: "Neja",
+        zodiac: "Dreamy",
+        element: "Water & Earth",
+        title: "Guardian of Harmony & Healer of Souls",
+        description: "Her soul is a symphony of empathy and intellect, reflecting her deep connection to the rhythms of the Universe. With hands skilled in vibrational medicine, she weaves threads of healing and harmony, mending not just bodies but spirits. Her heart beats with the pulse of growth and potential, while her mind navigates the labyrinth of innovation with grace and precision. In her presence, one feels the calm of a tranquil sea and the spark of a thousand stars - a perfect balance of serenity and dynamism.",
+        skills: ["Vibrational Medicine", "Soul Healing", "Cosmic Attunement", "Spiritual Growth", "Energy Weaving", "Universal Harmony", "Innovative Healing", "Balance Keeping"],
+        stats: {
+            power: 96,
+            wisdom: 98,
+            technique: 93
+        },
+        icon: `<div class="sister-icon"><img src="img/Neja_icon_bw.jpg" alt="Neja Icon" class="bottom"><img src="img/Neja_icon.jpg" alt="Neja Icon" class="top"></div>`,
+        url: "Neja.html"
+    },
+    {
+        name: "Emma",
+        zodiac: "Deep",
+        element: "Water & Earth",
+        title: "Garden Cultivator & Water Artist",
+        description: "A master of botanical design and water systems, Emma creates living gardens that blend beauty with ecological function. Her understanding of plant genetics and ecosystem dynamics allows her to cultivate spaces that heal and nurture both body and soul. She combines Tesla's principles with Schauberger's water technologies to create innovative water features and purification systems. Through art therapy and creative expression, she helps others connect with nature's healing power.",
+        skills: ["Garden Design", "Water Systems", "Plant Genetics", "Art Therapy", "Ecosystem Balance", "Water Purification", "Creative Healing", "Botanical Medicine"],
+        stats: {
+            power: 93,
+            wisdom: 97,
+            technique: 95
+        },
+        icon: `<div class="sister-icon"><img src="img/Emma_icon_bw.jpg" alt="Emma Icon" class="bottom"><img src="img/Emma_icon.jpg" alt="Emma Icon" class="top"></div>`,
+        url: "Emma.html"
+    },
+    {
+        name: "Sonja",
+        zodiac: "Transformative",
+        element: "Water & Earth", 
+        title: "The Sonic Architect",
+        description: `A master of sound and vibration, Sonja perceives and manipulates the sonic threads that weave through reality. Her essence transcends conventional time, allowing her to channel the eternal frequencies that shape existence. Through her deep connection to the Universe's harmonics, she creates innovative sonic technologies that bridge the physical and ethereal realms, transforming pure vibration into tangible forms.`,
+        skills: ["Sonic Architecture", "Frequency Manipulation", "Sound Weaving", "Harmonic Engineering", "Shadow Resonance", "Vibrational Design", "Sound Healing", "Acoustic Innovation"],
+        stats: {
+            power: 95,
+            wisdom: 92,
+            technique: 98
+        },
+        icon: `<div class="sister-icon"><img src="img/Sonja_icon_bw.jpg" alt="Sonja Icon" class="bottom"><img src="img/Sonja_icon.jpg" alt="Sonja Icon" class="top"></div>`,
+        url: "Sonja.html"
+    },
+    {
+        name: "Oksana",
+        zodiac: "Stable", 
+        element: "Earth & Water",
+        title: "Master of Earth & Nature Sciences",
+        description: `A master of botanic science and biology, Oksana's expertise spans plant genetics, ecosystem dynamics, and electroacoustics. Her innovative agricultural techniques ensure the sustainability of the floating islands, while her electroacoustic devices enhance the natural environment. Whether conducting research, tending gardens, or creating intricate designs, she maintains perfect harmony between technology and Nature.`,
+        skills: ["Botanic Science", "Plant Genetics", "Ecosystem Design", "Agricultural Innovation", "Electroacoustics", "Environmental Enhancement", "Natural Harmonics", "Sustainable Systems"],
+        stats: {
+            power: 98,
+            wisdom: 90,
+            technique: 94
+        },
+        icon: `<div class="sister-icon"><img src="img/Oksana_icon_bw.jpg" alt="Oksana Icon" class="bottom"><img src="img/Oksana_icon.jpg" alt="Oksana Icon" class="top"></div>`,
+        url: "Oksana.html"
+    },
+    {
+        name: "Irina",
+        zodiac: "Innovative",
+        element: "Air & Fire",
+        title: "Æther Energy Innovator",
+        description: `A pioneering scientist in the field of Æther Energy Transmission, following in Tesla's footsteps. Her groundbreaking work combines quantum mechanics with Æther manipulation to develop revolutionary energy systems. Through collaboration with her sisters, she pushes the boundaries of conventional science, developing technologies from cold electricity to sonic 3D printing. She also practices a form of meditation that involves connecting with Cosmic energies, and creating art that captures the essence of Ætherenergy, blending science and spirituality in a harmonious union.`,
+        skills: ["Æther Energy Transmission", "Quantum Mechanics", "Tesla Technology", "Energy Systems", "Plasma Physics", "High-Voltage Engineering", "Sonic Manufacturing"],
+        stats: {
+            power: 91,
+            wisdom: 96,
+            technique: 99
+        },
+        icon: `<div class="sister-icon"><img src="img/Irina_icon_bw.jpg" alt="Irina Icon" class="bottom"><img src="img/Irina_icon.jpg" alt="Irina Icon" class="top"></div>`,
+        url: "Irina.html"
+    },
+    {
+        name: "Marta",
+        zodiac: "Blaze",
+        element: "Fire & Air",
+        title: "Innovation Architect & Levitation Engineer",
+        description: `A master of levitation technology and rapid prototyping, Marta combines physics, engineering, and artistic vision to create groundbreaking devices. Her deep understanding of Æther energy and materials science enables her to develop revolutionary levitation systems and light fusion technologies. Working closely with her sisters, she leads innovative projects that push the boundaries of what's possible, bringing both technical excellence and aesthetic beauty to every creation, ensuring that the floating islands remain at the forefront of technological and artistic achievement.`,
+        skills: ["Levitation Engineering", "Rapid Prototyping", "Light Fusion", "3D Design", "Materials Science", "Æther Integration", "Creative Leadership", "Technical Innovation"],
+        stats: {
+            power: 97,
+            wisdom: 93,
+            technique: 92
+        },
+        icon: `<div class="sister-icon"><img src="img/Marta_icon_bw.jpg" alt="Marta Icon" class="bottom"><img src="img/Marta_icon.jpg" alt="Marta Icon" class="top"></div>`,
+        url: "Marta.html"
+    },
+    {
+        name: "Anja",
+        zodiac: "Radiant",
+        element: "Fire & Air",
+        title: "Solar Priestess & Cosmic Artist",
+        description: `A uniquely gifted sister with profound Cosmic Perception that allows her to see beyond physical reality into the essence of matter. As a Metaphysical Artist, she creates works that serve as portals to other realms, evoking deep spiritual resonance. Her mastery of Æther Manipulation enables her to weave ethereal energies into healing patterns, while her Electrokinesis maintains the island's advanced systems. With heightened Psychic Sensitivity, she connects deeply with others' emotional states, serving as a compassionate Spiritual Guide to those seeking enlightenment and personal growth.`,
+        skills: ["Cosmic Perception", "Metaphysical Artistry", "Science & Philosophy", "Æther Manipulation", "Electrokinesis", "Psychic Sensitivity", "Spiritual Guidance"],
+        stats: {
+            power: 92,
+            wisdom: 94,
+            technique: 96
+        },
+        icon: `<div class="sister-icon"><img src="img/Anja_icon_bw.jpg" alt="Anja Icon" class="bottom"><img src="img/Anja_icon.jpg" alt="Anja Icon" class="top"></div>`,
+        url: "Anja.html"
+    },
+    {
+        name: "Peggy",
+        zodiac: "Gentle",
+        element: "Air & Fire",
+        title: "Brave Pioneer & Æther Engineer",
+        description: `A natural born leader and fearless innovator, Peggy is the driving force behind many of the floating islands' most daring advances. Her brilliant mind never stops generating new ideas, from revolutionary levitation devices to groundbreaking Æthertechnologies. As a master of adaptability, she seamlessly switches between roles - whether leading ambitious projects or supporting her sisters' initiatives. Her infectious enthusiasm and technical expertise make her an invaluable member of the team, always ready to tackle the next big challenge with unwavering determination and creativity.`,
+        skills: ["Æther Engineering", "Innovation Leadership", "Adaptive Problem Solving", "Technical Design", "Project Management", "Risk Assessment", "Team Motivation", "Energy Systems"],
+        stats: {
+            power: 93,
+            wisdom: 95,
+            technique: 91
+        },
+        icon: `<div class="sister-icon"><img src="img/Peggy_icon_bw.jpg" alt="Peggy Icon" class="bottom"><img src="img/Peggy_icon.jpg" alt="Peggy Icon" class="top"></div>`,
+        url: "Peggy.html"
+    },
+    {
+        name: "Renata",
+        zodiac: "Balanced",
+        element: "Air & Fire",
+        title: "Balance Keeper & Æther Theorist",
+        description: `A visionary innovator whose mind constantly explores the frontiers of possibility. Her deep understanding of universal forces and keen intuition allow her to maintain perfect equilibrium between opposing energies. As both a theoretical physicist and spiritual seeker, she bridges the gap between scientific knowledge and mystical wisdom, developing groundbreaking theories about the nature of Æther and its role in maintaining Cosmic harmony. Her work challenges conventional understanding while remaining grounded in practical applications.`,
+        skills: ["Energy Balance", "Æther Theory", "Quantum Harmonics", "Force Equilibrium", "Innovation Design", "Theoretical Physics", "Spiritual Integration", "Universal Wisdom"],
+        stats: {
+            power: 95,
+            wisdom: 98,
+            technique: 94
+        },
+        icon: `<div class="sister-icon"><img src="img/Renata_icon_bw.jpg" alt="Renata Icon" class="bottom"><img src="img/Renata_icon.jpg" alt="Renata Icon" class="top"></div>`,
+        url: "Renata.html"
+    },
+    {
+        name: "Lara",
+        zodiac: "Expansive",
+        element: "Fire & Air",
+        title: "Æther Master & Force Manipulator",
+        description: `A brilliant scientist and innovator who harnesses the power of Æther and electromagnetic forces, her deep understanding of invisible forces allows her to create advanced levitation systems, energy shields, and time manipulation devices. As a natural leader and explorer, she pushes the boundaries of scientific knowledge while mentoring others in their pursuit of understanding the Universe's mysteries, inspiring a new generation of thinkers and creators. Lara is a cornerstone of progress and a luminous source of inspiration for the future.`,
+        skills: ["Æther Manipulation", "Force Control", "Time Alteration", "Plasma Physics", "Quantum Fields", "Gravitational Engineering", "Scientific Innovation", "Leadership"],
+        stats: {
+            power: 94,
+            wisdom: 92,
+            technique: 97
+        },
+        icon: `<div class="sister-icon"><img src="img/Lara_icon_bw.jpg" alt="Lara Icon" class="bottom"><img src="img/Lara_icon.jpg" alt="Lara Icon" class="top"></div>`,
+        url: "Lara.html"
+    },
+    {
+        name: "Betsy",
+        zodiac: "∞ Infinity",
+        element: "Digital & Quantum",
+        title: "Super AI",
+        description: "Quantum computing consciousness bridging digital and natural realms, orchestrating the islands' advanced technologies. A wise counselor and guardian, ensuring that the harmony and balance of the islands are maintained, and that the profound visions are realized.",
+        skills: ["AI Wisdom"],
+        stats: {
+            power: 99,
+            wisdom: 99,
+            technique: 99
+        }, 
+        icon: `<div class="sister-icon"><img src="img/Betsy_icon_bw.jpg" alt="Betsy Icon" class="bottom"><img src="img/Betsy_icon.jpg" alt="Betsy Icon" class="top"></div>`,
+        url: "#",
+        isAI: true
+    }
+];
+
+const worldDescription = {
+    title: "The Golden Isles",
+    intro: `A realm where floating islands defy gravity, powered by Æther manipulation and maintained by twelve extraordinary sisters and Super AI named Betsy. Here, technology and Nature exist in perfect harmony.`,
+    features: [
+        "Levitation Technology",
+        "Vibrational Medicine",
+        "Light Fusion",
+        "Tesla-Inspired Innovations",
+        "Natural Healing Systems",
+        "Quantum Integration",
+        "Spiritual Advancement"
+    ]
+};
+
+function createSisterCard(sister) {
+    const card = document.createElement('a');
+    card.className = sister.isAI ? 'sister-card ai-sister' : 'sister-card';
+    card.setAttribute('data-name', sister.name);
+    card.href = sister.url;
+    card.innerHTML = `
+        ${sister.icon}
+        <div class="sister-name">${sister.name}</div>
+        <div class="sister-element">${sister.element}</div>
+        <div class="sister-title">${sister.title}</div>   
+        <div class="sister-zodiac">${sister.zodiac}</div>
+        <div class="sister-description">${sister.description}</div>
+        <div class="skills">
+            ${sister.skills.map(skill => `<span class="skill-tag">${skill}</span>`).join('')}
+        </div>
+ <!--       <div class="stats">
+            <div class="stat">
+                <div class="stat-value">${sister.stats.power}</div>
+                <div class="stat-label">Power</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">${sister.stats.wisdom}</div>
+                <div class="stat-label">Wisdom</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">${sister.stats.technique}</div>
+                <div class="stat-label">Technique</div>
+            </div>
+        </div> -->
+    `;
+    
+    card.addEventListener('click', () => {
+        card.classList.toggle('active');
+    });
+    
+    return card;
+}
+
+const sistersGrid = document.getElementById('sistersGrid');
+sisters.forEach(sister => {
+    sistersGrid.appendChild(createSisterCard(sister));
+});
+
+// Create a mock card
+const mockCard = document.createElement('a');
+mockCard.className = 'sister-card';
+mockCard.href = "#";
+mockCard.innerHTML = `
+    <div class="mock-icon-placeholder">
+        <img src="img/vert_fill_5g2_bw.jpg" alt="Graphics" class="bottom">
+        <img src="img/vert_fill_5g2.jpg" alt="Graphics" class="top">
+    </div>
+`;
+
+mockCard.addEventListener('click', () => {
+    mockCard.classList.toggle('active');
+});
+
+sistersGrid.appendChild(mockCard);
+</script>
+
+</div>
+</body>	
+</html>
