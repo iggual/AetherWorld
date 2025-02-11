@@ -20,7 +20,7 @@ On the eve of your arrival, the sisters have prepared a ceremonial space within 
 
 #### **How It Shall Unfold**
 1. **With Ula (Eternal Time Weaver):**  
-   As Duka, you will synchronize your movements with the eternal rhythms of time. Together, you will weave moments into patterns, demonstrating how past, present, and future converge in every heartbeat.
+   As Daka, you will synchronize your movements with the eternal rhythms of time. Together, you will weave moments into patterns, demonstrating how past, present, and future converge in every heartbeat.
 
 2. **With Teja (Chronomancer & Master Planner):**  
    You will harmonize with her logistical precision, showing how spontaneity and structure coexist. Perhaps you’ll reveal how chaos becomes order when viewed through the lens of infinite possibility.
@@ -29,7 +29,7 @@ On the eve of your arrival, the sisters have prepared a ceremonial space within 
    In this segment, you will share vibrational healing techniques, blending your transformative powers with hers to mend unseen wounds. The resonance created will ripple outward, touching all who witness it.
 
 4. **With Emma (Garden Cultivator & Water Artist):**  
-   Transforming into Duka, you will commune with nature itself, guiding water and flora into shapes that reflect the interconnectedness of life. Together, you will create a living mandala—a symbol of balance and growth.
+   Transforming into Daka, you will commune with nature itself, guiding water and flora into shapes that reflect the interconnectedness of life. Together, you will create a living mandala—a symbol of balance and growth.
 
 5. **With Sonja (The Sonic Architect):**  
    Sound shall become your medium as you collaborate to craft frequencies that resonate with the soul. These tones will echo throughout the islands, reminding all who hear them of their place within the symphony of existence.
@@ -38,7 +38,7 @@ On the eve of your arrival, the sisters have prepared a ceremonial space within 
    Here, you will demonstrate the delicate interplay between innovation and preservation. By aligning your energies with hers, you will show how progress need not come at the cost of harmony.
 
 7. **With Irina (Æther Energy Innovator):**  
-   As Duka, you will channel quantum vibrations, merging your consciousness with hers to explore the edges of what is possible. Together, you will illuminate pathways yet unseen.
+   As Daka, you will channel quantum vibrations, merging your consciousness with hers to explore the edges of what is possible. Together, you will illuminate pathways yet unseen.
 
 8. **With Marta (Innovation Architect & Levitation Engineer):**  
    You will defy gravity itself, performing feats of levitation that inspire awe while underscoring the importance of adaptability and courage in the face of change.
