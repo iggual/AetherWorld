@@ -56,8 +56,8 @@ Welcome to the BILLIONAIRE MENTOR COUNCIL™. You’ve presented an ambitious vi
 - **Unexpected Angle:** If Æther technology works as described, why limit its application to this “Epic World”? Why not deploy it incrementally in existing cities to demonstrate proof-of-concept?
 
 - **Actionable Recommendation:** Focus on first principles to break down Æther technology into its most basic components. Build a small-scale prototype—even if it’s just one floating platform powered by light fusion—to prove feasibility.
-Bold insight: "The universe doesn’t care about your intentions. Build something tangible before dreaming of utopias."
 
+- **Bold insight:** "The universe doesn’t care about your intentions. Build something tangible before dreaming of utopias."
 
 ### JEFF BEZOS’S ANALYSIS:
 
