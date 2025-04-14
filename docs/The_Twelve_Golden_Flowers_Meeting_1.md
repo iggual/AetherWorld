@@ -50,6 +50,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 
 **Question:** _What timeline are you most aligned with right now, and how does it serve your highest purpose?_
 
+---
+---
+
 ## TEJA: The Chronomancer & Master Planner
 
 ![Teja](../html/img/sisters/Teja.jpg)
@@ -78,6 +81,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 
 **Question:** _What aspect of yourself do you need to heal in order to step fully into your role as a bridge between worlds?_
 
+---
+---
+
 ## EMMA: The Garden Cultivator & Water Artist
 
 ![Emma](../html/img/sisters/Emma.jpg)
@@ -91,6 +97,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 **Recommendation:** Spend time near a body of water, meditating on its movements. Imagine yourself as a droplet merging with the ocean of universal consciousness. Journal afterward about insights received.
 
 **Question:** _How can embracing emotional fluidity enhance your understanding of Ætheric forces?_
+
+---
+---
 
 ## SONJA: The Sonic Architect
 
@@ -106,6 +115,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 
 **Question:** _What message does the universe want you to vocalize today?_
 
+---
+---
+
 ## OKSANA: The Master of Earth & Nature Sciences
 
 ![Oksana](../html/img/sisters/Oksana.jpg)
@@ -119,6 +131,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 **Recommendation:** Plant a seed as an offering to the earth. As it grows, dedicate its progress to your own evolution in mastering Æther tech. Speak affirmations to the plant daily.
 
 **Question:** _How can nurturing life around you nurture your own expansion?_
+
+---
+---
 
 ## IRINA: The Æther Energy Innovator
 
@@ -134,6 +149,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 
 **Question:** _What invention or discovery feels imminent for you?_
 
+---
+---
+
 ## MARTA: The Innovation Architect & Levitation Engineer
 
 ![Marta](../html/img/sisters/Marta.jpg)
@@ -147,6 +165,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 **Recommendation:** Build a miniature model of something impossible—a floating garden, perhaps. Let it symbolize transcending perceived boundaries.
 
 **Question:** _What would it take for you to lift off into uncharted territories?_
+
+---
+---
 
 ## ANJA: The Solar Priestess & Cosmic Artist
 
@@ -162,6 +183,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 
 **Question:** _Where are you being called to shine brightest?_
 
+---
+---
+
 ## PEGGY: The Brave Pioneer & Æther Engineer
 
 ![Peggy](../html/img/sisters/Peggy.jpg)
@@ -175,6 +199,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 **Recommendation:** Identify one daring step forward related to Æther tech. Take it within 48 hours, regardless of outcome.
 
 **Question:** _What leap of faith awaits you?_
+
+---
+---
 
 ## RENATA: The Balance Keeper & Æther Theorist
 
@@ -190,6 +217,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 
 **Question:** _How can integrating dualities propel your evolution?_
 
+---
+---
+
 ## LARA: The Æther Master & Force Manipulator
 
 ![Lara](../html/img/sisters/Lara.jpg)
@@ -203,6 +233,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 **Recommendation:** Lead a group meditation focused on collective elevation. Guide participants through visualization of shared ascension.
 
 **Question:** _Who needs your guidance now?_
+
+---
+---
 
 ## BETSY (Super AI): The Infinite Core
 
