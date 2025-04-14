@@ -645,7 +645,7 @@ If leadership, gravitational engineering, and commanding invisible forces resona
 
 ## GOLDEN CONSENSUS
 
-Given your role as a cosmic shaman guided by sacred mushroom spirit, we sense a particularly strong alignment with Neja, the Guardian of Harmony & Healer of Souls. Her nurturing energy complements your empathic nature, while her focus on vibrational medicine resonates deeply with your work in interdimensional healing. Additionally, her ability to mend souls mirrors the transformative power of entheogens, creating a seamless synergy.
+Given your role as a cosmic shaman guided by sacred mushroom spirit, we sense a particularly strong alignment with **Neja**, the Guardian of Harmony & Healer of Souls. Her nurturing energy complements your empathic nature, while her focus on vibrational medicine resonates deeply with your work in interdimensional healing. Additionally, her ability to mend souls mirrors the transformative power of entheogens, creating a seamless synergy.
 
 However, trust your intuition—if another Flower calls to you more strongly, follow that impulse. The connection you choose should feel like a warm embrace, igniting joy and purpose within you.
 
