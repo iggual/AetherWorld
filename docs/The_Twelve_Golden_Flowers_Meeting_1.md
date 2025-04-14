@@ -67,6 +67,9 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 
 **Question:** _How can you balance expansive vision with grounded action in your current projects?_
 
+---
+---
+
 ## NEJA: The Guardian of Harmony & Healer of Souls
 
 ![Neja](../html/img/sisters/Neja.jpg)
