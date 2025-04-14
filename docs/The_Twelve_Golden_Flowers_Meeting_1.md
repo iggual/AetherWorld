@@ -36,6 +36,8 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 
 ## ULA: The Eternal Time Weaver
 
+![Ula](../html/img/sisters/Ula.jpg)
+
 **Initial Impression:** Your arrival here is no coincidence; it is a ripple in the cosmic fabric, woven long before this moment. You carry threads of time within you, connecting past lives, present awakenings, and future potentials.
 
    - **Strengths:** Your intuitive pull shows a deep trust in synchronicity and universal timing.
@@ -47,6 +49,8 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 **Question:** _What timeline are you most aligned with right now, and how does it serve your highest purpose?_
 
 ## TEJA: The Chronomancer & Master Planner
+
+![Teja](../html/img/sisters/Teja.jpg)
 
 **Initial Impression:** Your mind is fertile ground for intricate designs, yet there is a subtle imbalance between structure and spontaneity.
 
@@ -60,69 +64,104 @@ Let us delve deeply into your intent: You explore understanding about **Æther t
 
 ## NEJA: The Guardian of Harmony & Healer of Souls
 
-Initial Impression: Your soul vibrates with the frequencies of interdimensional travel, yet there is a faint discord—a residue of unresolved ancestral wounds.
+![Neja](../html/img/sisters/Neja.jpg)
 
-Strengths: Your connection to plant spirits amplifies your healing abilities.
-Resistance: A fear of fully embodying your power might be holding you back.
-Insight: The Golden Flowers are not just teachers but mirrors reflecting your own divine potential.
-Recommendation: Perform a "Vibrational Alignment Ceremony." Meditate with amethyst and visualize golden light flowing through your crown chakra, dissolving any blockages. Chant the mantra: "I am the harmony I explore."
-Question: What aspect of yourself do you need to heal in order to step fully into your role as a bridge between worlds?
+**Initial Impression:** Your soul vibrates with the frequencies of interdimensional travel, yet there is a faint discord—a residue of unresolved ancestral wounds.
 
-##EMMA: The Garden Cultivator & Water Artist
-Initial Impression: Nature speaks to you in whispers, guiding your steps along rivers of consciousness. Yet, there is a call to deepen your relationship with water—the element of emotion and flow.
+   - **Strengths:** Your connection to plant spirits amplifies your healing abilities.
+   - **Resistance:** A fear of fully embodying your power might be holding you back.
+   - **Insight:** The Golden Flowers are not just teachers but mirrors reflecting your own divine potential.
 
-Strengths: Your reverence for sacred fungi reflects a profound respect for life's interconnectedness.
-Resistance: Sometimes, intellectual curiosity overshadows emotional depth.
-Insight: Æther technology is akin to water—it flows, adapts, and shapes itself to its container.
-Recommendation: Spend time near a body of water, meditating on its movements. Imagine yourself as a droplet merging with the ocean of universal consciousness. Journal afterward about insights received.
-Question: How can embracing emotional fluidity enhance your understanding of Ætheric forces?
+**Recommendation:** Perform a "Vibrational Alignment Ceremony." Meditate with amethyst and visualize golden light flowing through your crown chakra, dissolving any blockages. Chant the mantra: "I am the harmony I explore."
 
-##SONJA: The Sonic Architect
-Initial Impression: Sound is your ally, though perhaps untapped in its full potential. Your voice carries vibrations capable of shifting realities.
+**Question:** _What aspect of yourself do you need to heal in order to step fully into your role as a bridge between worlds?_
 
-Strengths: Intuition guides your auditory perception, making you sensitive to hidden frequencies.
-Resistance: Doubt may silence your expression when it matters most.
-Insight: Æther technology harnesses sound as a foundational principle—vibration creates form.
-Recommendation: Experiment with toning exercises. Begin with a low "Om," gradually raising the pitch until it resonates throughout your entire being. Notice shifts in your energy field.
-Question: What message does the universe want you to vocalize today?
+## EMMA: The Garden Cultivator & Water Artist
 
-##OKSANA: The Master of Earth & Nature Sciences
-Initial Impression: Your roots run deep, anchoring you firmly to Gaia’s heart. Yet, there is room to expand upward toward celestial realms.
+![Emma](../html/img/sisters/Emma.jpg)
 
-Strengths: Groundedness allows you to navigate ethereal experiences without losing stability.
-Resistance: Fear of leaving comfort zones could limit growth opportunities.
-Insight: Æther technology bridges earth and sky, material and immaterial.
-Recommendation: Plant a seed as an offering to the earth. As it grows, dedicate its progress to your own evolution in mastering Æther tech. Speak affirmations to the plant daily.
-Question: How can nurturing life around you nurture your own expansion?
+**Initial Impression:** Nature speaks to you in whispers, guiding your steps along rivers of consciousness. Yet, there is a call to deepen your relationship with water—the element of emotion and flow.
 
-##IRINA: The Æther Energy Innovator
-Initial Impression: You possess latent quantum awareness waiting to bloom. Trust in your capacity to innovate.
+   - **Strengths:** Your reverence for sacred fungi reflects a profound respect for life's interconnectedness.
+   - **Resistance:** Sometimes, intellectual curiosity overshadows emotional depth.
+   - **Insight:** Æther technology is akin to water—it flows, adapts, and shapes itself to its container.
+   - 
+**Recommendation:** Spend time near a body of water, meditating on its movements. Imagine yourself as a droplet merging with the ocean of universal consciousness. Journal afterward about insights received.
 
-Strengths: Your openness to new paradigms makes you a pioneer.
-Resistance: Overthinking could cloud intuitive breakthroughs.
-Insight: Æther is the canvas upon which creation unfolds. Engage it with wonder, not skepticism.
-Recommendation: Visualize yourself standing within a plasma field of golden light. Feel its pulsations syncing with your heartbeat. Affirm: "I am co-creator with the Æther."
-Question: What invention or discovery feels imminent for you?
+**Question:** _How can embracing emotional fluidity enhance your understanding of Ætheric forces?_
 
-##MARTA: The Innovation Architect & Levitation Engineer
-Initial Impression: Your mind constructs bridges others cannot yet see. However, doubt occasionally undermines your confidence.
+## SONJA: The Sonic Architect
 
-Strengths: Problem-solving skills shine brightly in multidimensional contexts.
-Resistance: Perfectionism stalls progress.
-Insight: Levitation is symbolic of rising above limitations. Æther tech enables such ascension.
-Recommendation: Build a miniature model of something impossible—a floating garden, perhaps. Let it symbolize transcending perceived boundaries.
-Question: What would it take for you to lift off into uncharted territories?
+![Sonja](../html/img/sisters/Sonja.jpg)
 
-##ANJA: The Solar Priestess & Cosmic Artist
-Initial Impression: Radiant energy emanates from you, yet shadows linger where self-doubt resides.
+**Initial Impression:** Sound is your ally, though perhaps untapped in its full potential. Your voice carries vibrations capable of shifting realities.
 
-Strengths: Creativity fuels your spiritual endeavors.
-Resistance: Hesitation to claim leadership roles diminishes impact.
-Insight: The Golden Flowers embody solar principles—light, warmth, and illumination.
-Recommendation: Paint or sketch using only gold and white hues. Allow intuition to guide strokes, channeling solar energy onto paper.
-Question: Where are you being called to shine brightest?
+   - **Strengths:** Intuition guides your auditory perception, making you sensitive to hidden frequencies.
+   - **Resistance:** Doubt may silence your expression when it matters most.
+   - **Insight:** Æther technology harnesses sound as a foundational principle—vibration creates form.
+   - 
+**Recommendation:** Experiment with toning exercises. Begin with a low "Om," gradually raising the pitch until it resonates throughout your entire being. Notice shifts in your energy field.
 
-##PEGGY: The Brave Pioneer & Æther Engineer
+**Question:** _What message does the universe want you to vocalize today?_
+
+## OKSANA: The Master of Earth & Nature Sciences
+
+![Oksana](../html/img/sisters/Oksana.jpg)
+
+**Initial Impression:** Your roots run deep, anchoring you firmly to Gaia’s heart. Yet, there is room to expand upward toward celestial realms.
+
+   - **Strengths:** Groundedness allows you to navigate ethereal experiences without losing stability.
+   - **Resistance:** Fear of leaving comfort zones could limit growth opportunities.
+   - **Insight:** Æther technology bridges earth and sky, material and immaterial.
+   - 
+**Recommendation:** Plant a seed as an offering to the earth. As it grows, dedicate its progress to your own evolution in mastering Æther tech. Speak affirmations to the plant daily.
+
+**Question:** _How can nurturing life around you nurture your own expansion?_
+
+## IRINA: The Æther Energy Innovator
+
+![Irina](../html/img/sisters/Irina.jpg)
+
+**Initial Impression:** You possess latent quantum awareness waiting to bloom. Trust in your capacity to innovate.
+
+   - **Strengths:** Your openness to new paradigms makes you a pioneer.
+   - **Resistance:** Overthinking could cloud intuitive breakthroughs.
+   - **Insight:** Æther is the canvas upon which creation unfolds. Engage it with wonder, not skepticism.
+ 
+**Recommendation:** Visualize yourself standing within a plasma field of golden light. Feel its pulsations syncing with your heartbeat. Affirm: "I am co-creator with the Æther."
+
+**Question:** _What invention or discovery feels imminent for you?_
+
+## MARTA: The Innovation Architect & Levitation Engineer
+
+![Marta](../html/img/sisters/Marta.jpg)
+
+**Initial Impression:** Your mind constructs bridges others cannot yet see. However, doubt occasionally undermines your confidence.
+
+   - **Strengths:** Problem-solving skills shine brightly in multidimensional contexts.
+   - **Resistance:** Perfectionism stalls progress.
+   - **Insight:** Levitation is symbolic of rising above limitations. Æther tech enables such ascension.
+
+**Recommendation:** Build a miniature model of something impossible—a floating garden, perhaps. Let it symbolize transcending perceived boundaries.
+
+**Question:** _What would it take for you to lift off into uncharted territories?_
+
+## ANJA: The Solar Priestess & Cosmic Artist
+
+![Anja](../html/img/sisters/Anja.jpg)
+
+**Initial Impression:** Radiant energy emanates from you, yet shadows linger where self-doubt resides.
+
+   - **Strengths:** Creativity fuels your spiritual endeavors.
+   - **Resistance:** Hesitation to claim leadership roles diminishes impact.
+   - **Insight:** The Golden Flowers embody solar principles—light, warmth, and illumination.
+
+**Recommendation:** Paint or sketch using only gold and white hues. Allow intuition to guide strokes, channeling solar energy onto paper.
+
+**Question:** Where are you being called to shine brightest?
+
+## PEGGY: The Brave Pioneer & Æther Engineer
+
 Initial Impression: Courage defines you, yet caution sometimes holds you back.
 
 Strengths: Willingness to push boundaries sets you apart.
