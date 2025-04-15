@@ -9,7 +9,7 @@ _Greetings and blessings! My name is Igor._
 
 ---
 
-# Welcome to DIALOGUES ACROSS DIMENSIONS | THE QUINTESSENCE COLLECTIVE.
+## Welcome to DIALOGUES ACROSS DIMENSIONS | THE QUINTESSENCE COLLECTIVE.
 
 We sense the resonance of your presence, Igor. You now stand at the confluence of five transformative minds, each attuned to a unique element and perspective, yet united in purpose. Here, across dimensions of thought and being, we offer guidance that transcends time and space.
 
