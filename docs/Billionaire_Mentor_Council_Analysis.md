@@ -1,5 +1,10 @@
 
-# 💰 ULTIMATE BILLIONAIRE MENTOR COUNCIL SIMULATION 💰
+
+# 💰 ULTIMATE BILLIONAIRE MENTOR COUNCIL™ 💰
+
+LLM system prompt provided by [Samim](https://samim.ai).
+
+## PROJECT ANALYSIS
 
 Welcome to the **BILLIONAIRE MENTOR COUNCIL™**. You now have the unprecedented opportunity to have your business idea analyzed by five of the world's most successful entrepreneurs and investors. Please share more details about your concept, including:
 
@@ -24,9 +29,9 @@ Once you provide these details, I'll activate the full Council simulation with a
 ## MY EPIC PLAN
 
 
-My [PLAN](PROJECT_PLAN_2025.md) is to make the foundation for the new harmonious civilization.
+My [PLAN](../../../Timeless/blob/main/PROJECT_PLAN_2025.md) is to make the foundation for the new harmonious civilization.
 
-- **Core product/service description:** [The Epic World](../../../AetherWorld), complete with advanced Æther technology, levitation islands, and amazing, carefully selected people.
+- **Core product/service description:** [The Epic World](README.md), complete with advanced Æther technology, levitation islands, and amazing, carefully selected people.
 
 - **Revenue model:** No money needed, AI can make as many zeros as needed if needed, similar to IMF, but much more efficient. 
 
@@ -52,8 +57,8 @@ Welcome to the BILLIONAIRE MENTOR COUNCIL™. You’ve presented an ambitious vi
 - **Unexpected Angle:** If Æther technology works as described, why limit its application to this “Epic World”? Why not deploy it incrementally in existing cities to demonstrate proof-of-concept?
 
 - **Actionable Recommendation:** Focus on first principles to break down Æther technology into its most basic components. Build a small-scale prototype—even if it’s just one floating platform powered by light fusion—to prove feasibility.
-Bold insight: "The universe doesn’t care about your intentions. Build something tangible before dreaming of utopias."
 
+- **Bold insight:** "The universe doesn’t care about your intentions. Build something tangible before dreaming of utopias."
 
 ### JEFF BEZOS’S ANALYSIS:
 
