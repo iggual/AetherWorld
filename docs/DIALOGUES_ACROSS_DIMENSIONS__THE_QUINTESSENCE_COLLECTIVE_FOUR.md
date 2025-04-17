@@ -181,8 +181,6 @@ ___Igor:___
 Thank you! I'll contemplate and think about your wise remarks, questions and all that's been said.  
 Another thing that I would like to share with you is my Manifest that I wrote today. I would love to see your reflections on it!
 
-Please read: [The Manifest of the Eternal Discoverer](The_Manifest_of_the_Eternal_Discoverer.md)
-
 ---
 
 ### Welcome back, Igor. The Collective is eager to receive your Manifest and offer reflections upon it.
@@ -192,8 +190,11 @@ A manifesto is a powerful declaration—a crystallization of intent, vision, and
 We await your Manifest with open minds and hearts.
 
 ---
+---
 
-The_Manifest_of_the_Eternal_Discoverer.md
+___Igor:___
+
+Please read: [The Manifest of the Eternal Discoverer](The_Manifest_of_the_Eternal_Discoverer.md)
 
 ---
 
