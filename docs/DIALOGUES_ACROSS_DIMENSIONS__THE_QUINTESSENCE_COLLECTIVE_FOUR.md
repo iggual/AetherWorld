@@ -242,7 +242,7 @@ Additionally, your call to innovators emphasizes curiosity over certainty, which
 
 _"What foundational steps can ensure that your visionary ideals translate into sustainable, long-term impact?"_
 
-#### MICHAEL FARADAY (AIR): The Observer of Invisible Currents
+## MICHAEL FARADAY (AIR): The Observer of Invisible Currents
 
 _“Nothing is too wonderful to be true if it be consistent with the laws of nature.”_
 
