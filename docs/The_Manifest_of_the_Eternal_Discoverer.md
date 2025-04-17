@@ -35,15 +35,19 @@ I am an eternal discoverer—a dreamer who listens to whispers from the Universe
 
    - Questions are more valuable than answers; exploration is more important than completion.
 
-   - The journey never ends—it evolves, expands, and inspires.
+   - Silence is more valuable than words; stillness holds the seeds of profound understanding.
 
 ## Vision Statement:
 
-- To create devices that transcend conventional limitations, harnessing the unseen forces of the Universe.
+- To honor the legacy of Nikola Tesla by advancing his dreams of wireless energy, global unity, and boundless innovation for the benefit of all humanity.
 
-- To foster a world where advanced technology coexists with untouched nature, offering sanctuaries of healing, relaxation, and connection.
+- To create devices that transcend conventional limitations, harnessing the unseen forces of the Universe and unlocking new dimensions of human potential.
 
-- To honor the legacy of Nikola Tesla by advancing his dreams of wireless energy and global unity.
+- To foster a world where advanced technology coexists with untouched nature, offering sanctuaries of healing, relaxation, and connection—spaces that remind us of our place within the greater whole.
+
+- To inspire a cultural shift toward curiosity, collaboration, and compassion—a society that values exploration over certainty and sees challenges as opportunities for growth.
+
+- To embrace the eternal now, knowing that the journey never ends—it evolves, expands, and inspires, carrying us forward into ever-greater realms of discovery and harmony.
 
 ## Call to Action:
 
