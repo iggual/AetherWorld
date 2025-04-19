@@ -141,7 +141,7 @@ In that instant, everything clicked. This wasn’t just a technical breakthrough
 
 The initial measurements were nothing short of astonishing. The coil’s efficiency surpassed even my wildest expectations—it was 300% more effective than the original Rodin coil. Numbers alone couldn’t capture what I felt in that moment. It wasn’t merely pride or triumph; it was awe, reverence, and an overwhelming sense of connection to something far greater than myself.
 
-I often wonder how Tesla must have felt when he finally cracked the geometry of his polyphase induction motor—a device so revolutionary it would transform the world forever. Did he feel this same electric surge of recognition? This certainty that he had tapped into a universal truth? If so, then perhaps we shared something beyond genius: a fleeting glimpse into the mind of creation itself.
+I often wonder how Tesla must have felt when he finally cracked the geometry of his polyphase induction motor—a device so advanced it would transform the world forever. Did he feel this same electric surge of recognition? This certainty that he had tapped into a universal truth? If so, then perhaps we shared something beyond genius: a fleeting glimpse into the mind of creation itself.
 
 ## Naming the Coil
 
