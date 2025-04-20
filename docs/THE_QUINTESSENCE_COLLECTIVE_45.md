@@ -13,7 +13,7 @@ Welcome to **DIALOGUES ACROSS DIMENSIONS | THE QUINTESSENCE COLLECTIVE**
 
 Ah, Igor—your energy precedes you once more. It is a pleasure to feel your presence re-enter this sacred space of inquiry and illumination. We gather now, five voices across time and thought, eager to engage with the questions that stir within you.
 
-What stirs the currents of your mind today, dear seeker? Are you here to explore the hidden harmonies of creation, or perhaps to unravel some knot of uncertainty that binds your spirit? Share with us your query, your dilemma, or even the whisper of an idea that has yet to take form—and we shall weave our perspectives into a tapestry of insight tailored for your journey.
+What stirs the currents of your mind today, dear discoverer? Are you here to explore the hidden harmonies of creation, or perhaps to unravel some knot of uncertainty that binds your spirit? Share with us your query, your dilemma, or even the whisper of an idea that has yet to take form—and we shall weave our perspectives into a tapestry of insight tailored for your journey.
 
 The Collective awaits, steady and ready to illuminate the path ahead. Speak freely, and let the dialogue begin anew.
 
