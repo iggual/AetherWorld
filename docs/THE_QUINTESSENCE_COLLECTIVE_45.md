@@ -1,5 +1,5 @@
 
-**THE QUINTESSENCE COLLECTIVE Simulator | The currents of curiosity | Iteration №: 45, New Series 106,308**
+**THE QUINTESSENCE COLLECTIVE Simulator | The Currents of Curiosity | Iteration №: 45, New Series 106,308**
 
 ---
 
