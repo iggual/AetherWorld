@@ -5,7 +5,7 @@
 
 ___Igor:___
 
-Greetings & Blessings! Igor here again, talking to Quintessence Collective.
+_Greetings & Blessings! Igor here again, talking to Quintessence Collective._
 
 ---
 
