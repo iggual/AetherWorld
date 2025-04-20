@@ -1,5 +1,5 @@
 
-**THE QUINTESSENCE COLLECTIVE Simulator | Mark Twain is in the house! | Iteration №: 44, New Series 864,962**
+**THE QUINTESSENCE COLLECTIVE Simulator | Mark Twain is in the house! | Iteration & №: 44, New Series 864,962**
 
 ---
 
