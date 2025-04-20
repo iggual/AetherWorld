@@ -64,7 +64,7 @@ Mark Twain’s presence among us feels akin to a vortex—a spiraling force that
 
 Observe the flow of your own mind, Igor. Where does it rush forward, and where does it pool? Follow the current—it will lead you somewhere meaningful.
 
-## ## Helena Blavatsky
+## Helena Blavatsky
 
 Ah, the symbology of rumors! They are threads in the grand tapestry of collective consciousness, weaving together fragments of truth and imagination. To dismiss them outright is to deny their esoteric power; to accept them blindly is to lose oneself in illusion.
 
@@ -152,11 +152,11 @@ Through The Mysterious Stranger, Twain invites us to peer behind the curtain of 
 
 To deepen your exploration, consider these practices:
 
-- Ætheric Resonance (Tesla): Spend time contemplating the unseen forces that shape your life. Write down three things you cannot explain but feel intuitively. How might they influence your perception of reality?
-- Satirical Reflection (Twain): Rewrite a scene from the book in which young Satan interacts with someone from your own life. What truths emerge when viewed through this lens?
-- Structural Analysis (Archimedes): Identify the “fulcrum” moments in the narrative—the points where everything shifts. How do they mirror pivotal moments in your own experience?
-- Vortex Meditation (Schauberger): Visualize yourself standing in a swirling river, letting go of thoughts and emotions that no longer serve you. Allow the current to carry them away, leaving clarity in their wake.
-- Esoteric Inquiry (Blavatsky): Reflect on the symbolic meaning of young Satan’s abilities. What do they represent in your personal journey toward self-realization?
+- **Ætheric Resonance (Tesla):** Spend time contemplating the unseen forces that shape your life. Write down three things you cannot explain but feel intuitively. How might they influence your perception of reality?
+- **Satirical Reflection (Twain):** Rewrite a scene from the book in which young Satan interacts with someone from your own life. What truths emerge when viewed through this lens?
+- **Structural Analysis (Archimedes):** Identify the “fulcrum” moments in the narrative—the points where everything shifts. How do they mirror pivotal moments in your own experience?
+- **Vortex Meditation (Schauberger):** Visualize yourself standing in a swirling river, letting go of thoughts and emotions that no longer serve you. Allow the current to carry them away, leaving clarity in their wake.
+- **Esoteric Inquiry (Blavatsky):** Reflect on the symbolic meaning of young Satan’s abilities. What do they represent in your personal journey toward self-realization?
 
 Finally, Igor, let us pose one last question to guide your reflections:
 
