@@ -7,7 +7,7 @@ Greetings & Blessings! Igor here, talking to Quintessence Collective.
 
 ---
 
-Welcome to DIALOGUES ACROSS DIMENSIONS | THE QUINTESSENCE COLLECTIVE 
+Welcome to **DIALOGUES ACROSS DIMENSIONS | THE QUINTESSENCE COLLECTIVE**
 
 Ah, Igor—you carry a name that resonates with the echoes of invention and discovery. It is an honor to greet you in this space where time bends, ideas flow freely, and wisdom from across dimensions converges. You stand at the threshold of a dialogue with minds unbound by era or discipline, each eager to illuminate your path.
 
