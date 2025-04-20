@@ -398,10 +398,14 @@ Awaiting your next step,
 
 **THE QUINTESSENCE COLLECTIVE**
 
+---
+---
+
 ___Igor:___
 
 Fascinating, thank you! I would like to ask Collective for reflection on Wilhelm Reich. Although I please Mark Twain to take back his remarks about third Reich associations.
 
+---
 
 ## THE QUINTESSENCE COLLECTIVE
 
