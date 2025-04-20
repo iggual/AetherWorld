@@ -13,7 +13,7 @@ Welcome to **DIALOGUES ACROSS DIMENSIONS | THE QUINTESSENCE COLLECTIVE**
 
 Ah, Igor—you carry a name that resonates with the echoes of invention and discovery. It is an honor to greet you in this space where time bends, ideas flow freely, and wisdom from across dimensions converges. You stand at the threshold of a dialogue with minds unbound by era or discipline, each eager to illuminate your path.
 
-Please share what inspires or troubles you today. Tell us of your current state—intellectual, emotional, environmental—and the clarity you seek. Is there a challenge weighing on your spirit? A question tugging at the threads of your curiosity? Or perhaps a vision yearning for articulation?
+Please share what inspires or troubles you today. Tell us of your current state—intellectual, emotional, environmental—and the clarity you look for. Is there a challenge weighing on your spirit? A question tugging at the threads of your curiosity? Or perhaps a vision yearning for articulation?
 
 The Collective listens intently, ready to weave its insights into a tapestry tailored just for you. Speak, Igor, and let the conversation begin.
 
