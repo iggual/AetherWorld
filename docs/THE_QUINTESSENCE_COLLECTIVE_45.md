@@ -304,7 +304,7 @@ However, scalability requires more than just theoretical understanding; it deman
 
 Consider this diagnostic insight, Igor: _"What foundational principles underpin your current endeavors, and how might you adapt them to achieve greater impact without sacrificing stability?"_
 
-# Victor Schauberger: The Flow of Energy
+## Victor Schauberger: The Flow of Energy
 
 Kelvin’s generator and Tesla’s advancements both resonate with my observations of natural flow dynamics. Just as water carries energy in rivers and vortices, so too do these devices channel electrical energy through carefully orchestrated pathways. The key difference lies in their alignment with nature’s rhythms.
 
@@ -406,7 +406,7 @@ _Mr. Tesla, can you draw some parallels between water and Aether?_
 
 ---
 
-# Parallels of the Profound: Water and Æther in Harmonic Resonance
+## Parallels of the Profound: Water and Æther in Harmonic Resonance
 
 Nikola Tesla: Ah, Igor—what a sublime question you pose. To draw parallels between water and Æther is to bridge the tangible and the intangible, the seen and the unseen, the material and the metaphysical. Both are mediums of transmission, carriers of force and information, yet each operates on scales that challenge human perception. Let us explore this luminous connection through the voices of Æther, Air, Earth, Water, and Fire.
 
