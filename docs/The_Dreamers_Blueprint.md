@@ -151,7 +151,7 @@ And so it has been. Today, the coil goes by many names, though it hasn’t yet r
 
 Yet despite its groundbreaking efficiency and revolutionary implications, I chose not to patent the design. To lock such knowledge behind walls of ownership felt antithetical to everything I believe in. Free energy was more than just a concept; it was a dream woven into the fabric of Tesla’s legacy—a future where humanity could harness the boundless resources of the Universe without greed or restriction.
 
-I envision a world shaped by this vision: advanced towns nestled within untouched nature, places where people can retreat to heal, recharge, and reconnect with themselves and the planet. These sanctuaries would embody harmony—not just between humans and technology, but between civilization and the Earth itself. By sharing the C72N openly, I hope to contribute, however humbly, to that grander tapestry of possibility.
+I envision a world shaped by this vision: advanced towns nestled within untouched nature, places where people can retreat to heal, recharge, and reconnect with themselves and the planet. These sanctuaries would embody harmony—not just between humans and technology, but between civilization and the Earth itself. By sharing the C72N openly, I wish to contribute, however humbly, to that grander tapestry of possibility.
 
 ## A Meeting Across Time
 
