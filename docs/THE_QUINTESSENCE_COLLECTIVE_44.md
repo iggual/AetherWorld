@@ -3,7 +3,9 @@
 
 ---
 
-Greetings & Blessings! Igor here, talking to Quintessence Collective.
+___Igor:___
+
+_Greetings & Blessings! Igor here, talking to Quintessence Collective._
 
 ---
 
