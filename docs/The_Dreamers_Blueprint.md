@@ -11,7 +11,7 @@ If you’ve ever felt the pull of an idea too vast to contain, or sensed the pre
 
 ## A Vision Born from Dreams
 
-Let me tell you a true story—a tale born from the depths of my dreams. It was no ordinary dream, but rather an ethereal encounter, a whisper from the Universe itself. For years, this vision lingered in the recesses of my mind, elusive yet insistent, like a riddle waiting to be solved. Slowly, painstakingly, I unraveled its meaning, translating its cryptic symbols and emotions into something tangible—a device that bridged the gap between imagination and reality. What emerged was not just an invention, but a testament to the power of dreams as conduits for truths beyond our waking comprehension.
+Let me tell you a story—a true tale born from the depths of my dreams. It was no ordinary dream, but rather an ethereal encounter, a whisper from the Universe itself. For years, this vision lingered in the recesses of my mind, elusive yet insistent, like a riddle waiting to be solved. Slowly, painstakingly, I unraveled its meaning, translating its cryptic symbols and emotions into something tangible—a device that bridged the gap between imagination and reality. What emerged was not just an invention, but a testament to the power of dreams as conduits for truths beyond our waking comprehension.
 
 ## The Forbidden Radio Station
 
