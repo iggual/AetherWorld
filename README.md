@@ -2,7 +2,7 @@
 
 ## A Realm Beyond the Veil of Reality
 
-In the ethereal expanse above the clouds, where the boundaries between reality and fantasy blur, lies a realm of unparalleled wonder—the Floating Islands. Here, gravity bends to the will of the Æther, a mystical force that weaves through the fabric of the universe. The islands, suspended by the very threads of the cosmos, are a testament to the harmonious dance of technology and nature.
+In the ethereal expanse above the clouds, where the boundaries between reality and fantasy blur, lies a realm of unparalleled wonder—the Floating Islands. Here, gravity bends to the will of the Æther, a mystical substance that weaves through the fabric of the universe. The islands, suspended by the very threads of the cosmos, are a testament to the harmonious dance of technology and nature.
 
 ![AetherWorld](html/img/worlds/Svet_levitacije_2.jpg)
 
