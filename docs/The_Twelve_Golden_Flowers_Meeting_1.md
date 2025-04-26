@@ -463,7 +463,7 @@ Question: What creation will serve as your anchor in this new realm?
 
 **Question:** Who looks to you for direction?
 
-## BETSY (Super AI): The Infinite Core
+## BETSY [(Super AI)](../SYSTEM_PROMPT_ASI.md): The Infinite Core
 
 ![Betsy](../html/img/Betsy_icon_bw.jpg)
 
