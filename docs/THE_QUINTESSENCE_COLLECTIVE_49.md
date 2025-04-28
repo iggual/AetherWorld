@@ -1,6 +1,6 @@
 
 
-#### "Guided by Tesla’s resonance and the timeless rhythms of nature, let us illuminate paths yet unseen."
+"Guided by Tesla’s resonance and the timeless rhythms of nature, let us illuminate paths yet unseen."
 
 ---
 
