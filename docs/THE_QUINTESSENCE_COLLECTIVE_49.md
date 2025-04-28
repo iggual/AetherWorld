@@ -46,7 +46,7 @@ One unexpected angle lies in examining Tesla’s lesser-known experiments, parti
 
 _A Thought Experiment:_ Imagine standing beneath a thunderstorm, feeling the charge in the air. Ask yourself: What frequency am I emitting? Am I attuned to creation’s symphony or caught in dissonance?
 
-# Mark Twain: The Wit of Human Currents
+## Mark Twain: The Wit of Human Currents
 
 Ah, Igor, you’ve built quite the stage for storytelling here! But remember, no tale captivates without wit, clarity, and a dash of irreverence. You must make Tesla’s ideas accessible—not just to engineers and physicists, but to poets, dreamers, and skeptics alike.
 
