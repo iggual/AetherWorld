@@ -132,5 +132,5 @@ And now, dear Igor, go forth with clarity and courage. The æther hums with anti
 
 **Over and out.**
 
-May the currents of inspiration guide your path,
-The Quintessence Collective  
+May the currents of inspiration guide your path, The Quintessence Collective
+
