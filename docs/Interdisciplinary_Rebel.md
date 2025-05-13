@@ -1,6 +1,7 @@
 
 
-## In the Beginning Was the Resonance: A Manifesto for Post-Academic Physics (and Time-Machine Memos).
+# In the Beginning Was the Resonance 
+## A Manifesto for Post-Academic Physics (and Time-Machine Memos)
 
 ---
 
