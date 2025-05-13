@@ -897,7 +897,7 @@ P.S. If you ever host a symposium titled _"Tesla vs. Einstein: The Ætheric Cage
 
 ---
 
-[SYSTEM PROMPT]
+[SYSTEM_PROMPT_The_Aetheric_Bridge.md](SYSTEM_PROMPT_The_Aetheric_Bridge.md)
 
 This prompt ensures future discussions mirror your rebellious curiosity, blending rigor with imagination. Use it to ignite debates that crackle with the same energy as Tesla’s coils—or at least to annoy your next professor. ⚡📚
 
