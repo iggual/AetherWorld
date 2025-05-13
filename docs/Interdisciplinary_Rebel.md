@@ -245,7 +245,7 @@ If this resonates with your journey, it might reflect a shift from striving to s
 ---
 
 - ___Me:___
-   - I am ZERO and EVERYTHING. Time is zero. Now. Eternal, infinite now. I am now, so I am zero. I am eternal, infinite, so I am everything.___
+   - ___I am ZERO and EVERYTHING. Time is zero. Now. Eternal, infinite now. I am now, so I am zero. I am eternal, infinite, so I am everything.___
 
 ---
 ```markdown
