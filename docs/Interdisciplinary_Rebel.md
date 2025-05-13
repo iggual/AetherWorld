@@ -4,7 +4,8 @@
 
 ---
 
-- ___Me: The weather is just perfect. Everything is perfect. One can not improve anything, one can only change one perfection for another.___
+- ___Me:___
+   - ___The weather is just perfect. Everything is perfect. One can not improve anything, one can only change one perfection for another.___
 
 ---
 ```markdown
@@ -60,7 +61,8 @@ If this resonates with a personal situation, exploring what "perfection" means t
 
 ---
 
-- ___Me: One is not lost if one do not care where one is.__
+- ___Me:___
+   - ___One is not lost if one do not care where one is.___
 
 ---
 ```markdown
@@ -88,7 +90,7 @@ This paradoxical statement—"One is not lost if one does not care where one is"
 ```
 ---
 
-This paradoxical statement—"One is not lost if one does not care where one is"—invites a meditation on freedom, perspective, and the human relationship to direction, purpose, and identity. Let’s unravel its layers:
+This paradoxical statement *"One is not lost if one does not care where one is"* invites a meditation on freedom, perspective, and the human relationship to direction, purpose, and identity. Let’s unravel its layers:
 
 #### 1. The Illusion of "Being Lost"
 
@@ -138,7 +140,8 @@ If this resonates with a personal crossroads, it might be worth asking: What doe
 
 ---
 
-- ___Me: I don't search, I find.___
+- ___Me:___
+   - ___I don't search, I find.___
 
 ---
 ```markdown
@@ -170,7 +173,7 @@ The phrase "I don’t search, I find" is a paradox that challenges conventional 
 ```
 ---
 
-The phrase _"I don’t search, I find"_ is a paradox that challenges conventional notions of purpose, intention, and discovery. At first glance, it seems contradictory—how can one find without searching? But beneath the surface lies a profound perspective on presence, surrender, and the nature of truth. Let’s explore its meaning and implications:
+The phrase *"I don’t search, I find"* is a paradox that challenges conventional notions of purpose, intention, and discovery. At first glance, it seems contradictory—how can one find without searching? But beneath the surface lies a profound perspective on presence, surrender, and the nature of truth. Let’s explore its meaning and implications:
 
 #### 1. The Paradox of Searching
 
@@ -240,7 +243,8 @@ If this resonates with your journey, it might reflect a shift from striving to s
 
 ---
 
-- ___Me: I am ZERO and EVERYTHING. Time is zero. Now. Eternal, infinite now. I am now, so I am zero. I am eternal, infinite, so I am everything.___
+- ___Me:___
+   - I am ZERO and EVERYTHING. Time is zero. Now. Eternal, infinite now. I am now, so I am zero. I am eternal, infinite, so I am everything.___
 
 ---
 ```markdown
@@ -321,7 +325,8 @@ If this resonates with your journey, it might reflect a shift from seeking meani
 
 ---
 
-- ___Me: Time is now. The only infinity is now, eternal present moment. Time is zero, geometrically is a point without dimension.___
+- ___Me:___
+   - ___Time is now. The only infinity is now, eternal present moment. Time is zero, geometrically is a point without dimension.___
 
 ---
 ```markdown
@@ -394,7 +399,8 @@ As the Taoist sage Lao Tzu wrote: _"The journey of a thousand miles begins with 
 
 ---
 
-- ___Me: Ha, you got it! "If time can dilate or collapse, is it truly a dimension, or merely a perceptual lens?" Einstein's math is perceptual lens! In the eternal, infinite present moment—now there's no 'time dilatation'!___
+- ___Me:___
+   - ___Ha, you got it! "If time can dilate or collapse, is it truly a dimension, or merely a perceptual lens?" Einstein's math is perceptual lens! In the eternal, infinite present moment—now there's no 'time dilatation'!___
 
 ---
 ```markdown
@@ -464,7 +470,8 @@ P.S. Einstein might have agreed, in spirit. He once wrote: _"The present is the 
 
 ---
 
-- ___Me: Einstein might have agreed indeed, and he would probably play only violin and chess if not for the status, fame and money.:)___
+- ___Me:___
+   - ___Einstein might have agreed indeed, and he would probably play only violin and chess if not for the status, fame and money.:)___
 
 ---
 ```markdown
@@ -518,7 +525,8 @@ Perhaps the real joke is on us: **we lionize Einstein for his equations, but his
 
 ---
 
-- ___Ha, good punchline indeed! Einstein would probably play violin and chess in the eternal present moment and try to forget that he was used just as a break and distraction for the advanced Nikola Tesla's Æther tech that after hounded+ years civilization still waiting to be accepted, allowed and applied for the greater good. But, like we said at the beginning, the weather is just perfect, and we'll get it when we'll be aligned with the natural laws, like Tesla said.___
+- ___Me:___
+   - ___Ha, good punchline indeed! Einstein would probably play violin and chess in the eternal present moment and try to forget that he was used just as a break and distraction for the advanced Nikola Tesla's Æther tech that after hounded+ years civilization still waiting to be accepted, allowed and applied for the greater good. But, like we said at the beginning, the weather is just perfect, and we'll get it when we'll be aligned with the natural laws, like Tesla said.___
 
 ---
 ```markdown
@@ -591,9 +599,10 @@ _(P.S. If you ever build a time machine, do us all a favor: send a memo to 1903 
 
 ---
 
-- ___Me: Do you really believe that is a myth that Tesla's work was suppressed? Please tell me in which university i can go to learn more about Æther and Tesla's advanced tech? My professors on electro said that Tesla was just a mad scientist, a madman, a little electrician who thought that is possible something impossible—to transmit wireless power. And wireless power transmission is possible, that i don't just believe, but i KNOW.  So electro schools are not the right address to gain Æther and advanced Tesla tech, and churches either, as far as i know..___
+- ___Me:___
+   - ___Do you really believe that is a myth that Tesla's work was suppressed? Please tell me in which university i can go to learn more about Æther and Tesla's advanced tech? My professors on electro said that Tesla was just a mad scientist, a madman, a little electrician who thought that is possible something impossible—to transmit wireless power. And wireless power transmission is possible, that i don't just believe, but i KNOW.  So electro schools are not the right address to gain Æther and advanced Tesla tech, and churches either, as far as i know..___
 
-- ___And thank you for your trust that I might build a time machine someday, but in that case I'll skip your arrogant sounding memo for Tesla in 1903, because I already prepared more interesting questions and discussions for him..___
+   - ___And thank you for your trust that I might build a time machine someday, but in that case I'll skip your arrogant sounding memo for Tesla in 1903, because I already prepared more interesting questions and discussions for him..___
 
 ---
 ```markdown
@@ -699,9 +708,10 @@ As for your time machine memo to Tesla in 1903—skip the arrogance. Ask him how
 
 ---
 
-- ___Me: Inductive charging? That has nothing to do with advanced Æther tech. Learn Maxwell’s equations? Which ones, those that was excluded from academic curriculum? And i should go to learn about Æther tech in University of Belgrade (Serbia)? Really?! I'll send this whole conversation to doctor Velimir Abramović to see what he will say. Do you have some interesting, perhaps a wise message for Velja!?___
+- ___Me:___
+   - ___Inductive charging? That has nothing to do with advanced Æther tech. Learn Maxwell’s equations? Which ones, those that was excluded from academic curriculum? And i should go to learn about Æther tech in University of Belgrade (Serbia)? Really?! I'll send this whole conversation to doctor Velimir Abramović to see what he will say. Do you have some interesting, perhaps a wise message for Velja!?___
 
-- ___P.S. Who knows, maybe I'll really publish a paper "Tesla’s Ætheric Resonance and Quantum Field Harmonics", it sounds interesting and intriguing! & i promise I'll cite you!:)___
+   - ___P.S. Who knows, maybe I'll really publish a paper "Tesla’s Ætheric Resonance and Quantum Field Harmonics", it sounds interesting and intriguing! & i promise I'll cite you!:)___
 
 ---
 ```markdown
@@ -788,7 +798,8 @@ P.S. If you name a theorem after me, make it the **"Law of Ætheric Impertinence
 
 ---
 
-- ___Me: OK, thank you. Suggest some title for this whole conversation, and make a list of #hashtags with topics and bullet points.___ 
+- ___Me:___
+   - ___OK, thank you. Suggest some title for this whole conversation, and make a list of #hashtags with topics and bullet points.___ 
 
 ---
 ```markdown
@@ -878,9 +889,10 @@ P.S. If you ever host a symposium titled _"Tesla vs. Einstein: The Ætheric Cage
 
 ---
 
-- ___Me: Hahaha! "Tesla vs. Einstein: The Ætheric Cage Match" is a good title for some surreal match on Beograd na vodi! With Mark Twain bot as a commenter!:P___
+- ___Me:___
+   - ___Hahaha! "Tesla vs. Einstein: The Ætheric Cage Match" is a good title for some surreal match on Beograd na vodi! With Mark Twain bot as a commenter!:P___
 
-___OK, for the end let's make a SYSTEM PROMPT out of this whole conversation for generating discussions like this one today. Print SYSTEM PROMPT formatted in Markdown, enclosed within triple backticks (```) for proper syntax highlighting.___
+   - ___OK, for the end let's make a SYSTEM PROMPT out of this whole conversation for generating discussions like this one today. Print SYSTEM PROMPT formatted in Markdown, enclosed within triple backticks (```) for proper syntax highlighting.___
 
 ---
 
