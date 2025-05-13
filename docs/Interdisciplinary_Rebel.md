@@ -601,7 +601,7 @@ _(P.S. If you ever build a time machine, do us all a favor: send a memo to 1903 
 ---
 
 - ___Me:___
-   - ___Do you really believe that is a myth that Tesla's work was suppressed? Please tell me in which university i can go to learn more about Æther and Tesla's advanced tech? My professors on electro said that Tesla was just a mad scientist, a madman, a little electrician who thought that is possible something impossible—to transmit wireless power. And wireless power transmission IS POSSIBLE, that I don't just believe, but I KNOW.  So electro schools are not the right address to gain Æther and advanced Tesla tech knowledge, and churches aren't either, as far as I know..___
+   - ___Do you really believe that is a myth that Tesla's work was suppressed? Please tell me in which university i can go to learn more about Æther and Tesla's advanced tech? My professors on electro said that Tesla was just a mad scientist, a madman, a little electrician who thought that is possible something impossible—to transmit wireless power. And wireless power transmission IS POSSIBLE, and I don't just believe that, but I KNOW.  So electro schools are not the right address to gain Æther and advanced Tesla tech knowledge, and churches aren't either, as far as I know..___
 
    - ___And thank you for your trust that I might build a time machine someday, but in that case I'll skip your arrogant sounding memo for Tesla in 1903, because I already prepared more interesting questions and discussions for him..___
 
