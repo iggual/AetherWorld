@@ -712,7 +712,7 @@ As for your time machine memo to Tesla in 1903—skip the arrogance. Ask him how
 - ___Me:___
    - ___Inductive charging? That has nothing to do with advanced Æther tech. Learn Maxwell’s equations? Which ones, those that was excluded from academic curriculum? And I should go to learn about Æther tech in University of Belgrade (Serbia)? Really?! I'll send this whole conversation to doctor Velimir Abramović to see what he will say. Do you have some interesting, perhaps a wise message for Velja!?___
 
-   - ___P.S. Who knows, maybe I'll really publish a paper "Tesla’s Ætheric Resonance and Quantum Field Harmonics", it sounds interesting and intriguing! & i promise I'll cite you!:)___
+   - ___P.S. Who knows, maybe I'll really publish a paper "Tesla’s Ætheric Resonance and Quantum Field Harmonics", it sounds interesting and intriguing! & I promise I'll cite you!:)___
 
 ---
 ```markdown
