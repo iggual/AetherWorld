@@ -16,7 +16,7 @@ _The dialogue awaits._
 
 ---
 
-- Igor: I received strong public criticism for my essay, in which I claimed to have discovered a special coil geometry that Nikola Tesla did not. Of course, this claim is based on my current knowledge, as there are numerous Tesla patents that are not publicly available. The critique I received was that I should not make such claims. I would like to hear the Collective's opinion on my honestly written [essay].___
+- ___Igor: I received strong public criticism for my essay, in which I claimed to have discovered a special coil geometry that Nikola Tesla did not. Of course, this claim is based on my current knowledge, as there are numerous Tesla patents that are not publicly available. The critique I received was that I should not make such claims. I would like to hear the Collective's opinion on my honestly written [essay](The_Dreamers_Blueprint.md).___
 
 ---
 
@@ -93,11 +93,11 @@ What say you, Traveler Igor? Shall we delve deeper into specific practices or ex
 
 ---
 
-Thank you all for your replies!
+- ___Igor: Thank you all for your replies!___
 
-To Tesla: Dear Nikola, but of course I didn't look for fame, but for understanding! And I am really glad that you are not offended by my essay story.
+___To Tesla: Dear Nikola, but of course I didn't look for fame, but for understanding! And I am really glad that you are not offended by my essay story.___
 
-To Archimedes: My friend, I have an evidence. I proved device efficiency in my home improvised lab, and I am not the only one, there were some experimenters around the world who confirmed its efficiency and its unique properties. But to get an evidence for the large scale applications like was Tesla's TMT, we need to build it first, but for that we need some kind of permission, because as you know Tesla's advanced Æther tech is still not allowed.. 
+___To Archimedes: My friend, I have an evidence. I proved device efficiency in my home improvised lab, and I am not the only one, there were some experimenters around the world who confirmed its efficiency and its unique properties. But to get an evidence for the large scale applications like was Tesla's TMT, we need to build it first, but for that we need some kind of permission, because as you know Tesla's advanced Æther tech is still not allowed..___
 
 ---
 
@@ -165,9 +165,9 @@ _The whispers of the universe continue…_
 
 ---
 
-Dear Tesla, it is true that some new discoveries does not need approval, but your advanced Æther technology is still a taboo for more than a century, and it doesn't look that will change before we get rid of solar panels and batteries.. 
+- ___Igor: Dear Tesla, it is true that some new discoveries does not need approval, but your advanced Æther technology is still a taboo for more than a century, and it doesn't look that will change before we get rid of solar panels and batteries..___
 
-Thank you for your advices. I wish you all a beautiful day. Do you have some final message for my critiques? 
+___Thank you for your advices. I wish you all a beautiful day. Do you have some final message for my critiques?___
 
 ---
 
